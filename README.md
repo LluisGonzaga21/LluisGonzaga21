@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![lgonzaga's 42 stats](https://badge42.vercel.app/api/v2/cldhj2uth00630flfiyhg74a5/stats?cursusId=21&coalitionId=216)](https://github.com/JaeSeoKim/badge42)
+
+[![lgonzaga's 42 Libft Score](https://badge42.vercel.app/api/v2/cldhj2uth00630flfiyhg74a5/project/2898440)](https://github.com/JaeSeoKim/badge42)
