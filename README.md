@@ -1,4 +1,4 @@
-### About me 👋 :smiley:
+### About me :smiley:
 
 I'm Lluis Gonzaga Fuster, programmer and data analyst. I consider myself a lover of technological development, teamwork and learning new tools. I understand programming and data analysis as a way to better understand the world around us, the behavior of people and improve our lives.
 
@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![lgonzaga's 42 stats](https://badge42.vercel.app/api/v2/cldhj2uth00630flfiyhg74a5/stats?cursusId=21&coalitionId=216)](https://github.com/JaeSeoKim/badge42)
+[![lgonzaga's 42 stats](https://badge42.vercel.app/api/v2/cldhj2uth00630flfiyhg74a5/stats?cursusId=21&coalitionId=274)](https://github.com/JaeSeoKim/badge42)
 
 Libft - [![lgonzaga's 42 Libft Score](https://badge42.vercel.app/api/v2/cldhj2uth00630flfiyhg74a5/project/2898440)](https://github.com/JaeSeoKim/badge42)
