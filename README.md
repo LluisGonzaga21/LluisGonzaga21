@@ -4,10 +4,9 @@ I'm Lluis Gonzaga Fuster, programmer and data analyst. I consider myself a lover
 
 I'm currently a student at Campus 42 Málaga and on Master in Big Data and Business Intelligence. This complements well whit my previous studies: Physics degree and Music School. 
 
-
 <!--
 **LluisGonzaga21/LluisGonzaga21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+          
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
