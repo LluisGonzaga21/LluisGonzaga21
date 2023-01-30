@@ -4,10 +4,10 @@ I'm Lluis Gonzaga Fuster, programmer and data analyst. I consider myself a lover
 
 I'm currently a student at Campus 42 Málaga and on Master in Big Data and Business Intelligence. This complements well whith my previous studies: Physics Degree and Music School. 
 
-<p align="center"> <h3>Languages and Frameworks</h3></p> 
+<p align="center"> <h3>Languages and tools</h3></p> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,fortran,cpp,javascript" />
+    <img src="https://skillicons.dev/icons?i=c,fortran,cpp,javascript,r,python,mysql,mongodb,latex,linux,github,vscode" />
   </a>
 </p>
 
