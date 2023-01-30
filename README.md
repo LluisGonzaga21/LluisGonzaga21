@@ -1,9 +1,15 @@
-### About me :smiley:
+## About me :smiley:
 
 I'm Lluis Gonzaga Fuster, programmer and data analyst. I consider myself a lover of technological development, teamwork and learning new tools. I understand programming and data analysis as a way to better understand the world around us, the behavior of people and improve our lives.
 
 I'm currently a student at Campus 42 Málaga and on Master in Big Data and Business Intelligence. This complements well whith my previous studies: Physics Degree and Music School. 
 
+###Languages and Frameworks:
+[![My Skills](https://skillicons.dev/icons?i=python,r,c,fortran,cpp,javascript,&theme=light)](https://skillicons.dev)
+
+:telescope: 
+[My physics academy](https://universoclases.com) 
+<img src="https://www.universoclases.com/wp-content/uploads/2021/02/8.png" alt="descripción" style="heigth:30px; width: 30px" /> 
 <!--
 **LluisGonzaga21/LluisGonzaga21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
           
