@@ -11,21 +11,6 @@ I'm currently a student at Campus 42 Málaga and on Master in Big Data and Busin
   </a>
 </p>
 
-<p align="center"> <h3>Data analytics</h3></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,python,mysql,mongodb" />
-  </a>
-</p>
-
-
-<p align="center"> <h3>Other skills</h3></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=latex,linux,github,vscode" />
-  </a>
-</p>
-
 :telescope: 
 [My physics academy](https://universoclases.com) 
 <img src="https://www.universoclases.com/wp-content/uploads/2021/02/8.png" alt="descripción" style="heigth:30px; width: 30px" /> 
@@ -34,9 +19,39 @@ I'm currently a student at Campus 42 Málaga and on Master in Big Data and Busin
 <a href="https://www.linkedin.com/in/lluis-gonzaga-fuster-8a4815151/"> Linkedin </a> <br>
 <a href="https://www.instagram.com/lluisgonzaga21/"> Instagram </a> <br>
 <a href="https://github.com/LluisGonzaga21"> Github </a> <br>
+
+<p align="center">
+
+ <a href="[https://jlferrete.com](https://github.com/LluisGonzaga21)" target="blank">
+
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="jlferrete" height="24px" width="24px" />
+
+ </a>
+
+ <a href="https://www.linkedin.com/in/lluis-gonzaga-fuster-8a4815151/" target="blank">
+
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jlferrete" height="24px" width="24px" />
+
+ </a>
+
+ <a href="https://www.instagram.com/lluisgonzaga21/" target="blank">
+
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jlferrete" height="24px" width="24px" />
+
+ </a>
+  
+<a href="https://www.youtube.com/channel/UCjOqGvCG26WWFsku04XL_PA" target="blank">
+
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="jlferrete" height="24px" width="24px" />
+
+ </a>
+
+</p>
+
+
 <!--
 **LluisGonzaga21/LluisGonzaga21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-          
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
