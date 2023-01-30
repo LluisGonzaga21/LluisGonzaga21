@@ -11,6 +11,9 @@ I'm currently a student at Campus 42 Málaga and on Master in Big Data and Busin
   </a>
 </p>
 
+---
+<p align="center"> <h3>My physics academy :telescope:</h3></p> 
+
 <p align="center">
 <a href="https://universoclases.com" target="blank">
 
@@ -19,6 +22,7 @@ I'm currently a student at Campus 42 Málaga and on Master in Big Data and Busin
 </a>
 
 ---
+<p align="center"> <h3>Social media</h3></p> 
 
 <p align="center">
 
