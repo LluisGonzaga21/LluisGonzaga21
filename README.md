@@ -48,7 +48,7 @@ I'm currently a student at Campus 42 Málaga and on Master in Big Data and Busin
 
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="jlferrete" height="24px" width="24px" />
 
- </a>
+</a>
 
 </p>
 
@@ -69,7 +69,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  
-[![lgonzaga's 42 stats](https://badge42.vercel.app/api/v2/cldhj2uth00630flfiyhg74a5/stats?cursusId=21&coalitionId=274)](https://github.com/JaeSeoKim/badge42)
-
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldhj2uth00630flfiyhg74a5/stats?cursusId=21&coalitionId=274" alt="lgonzaga's 42 stats" /></a>
 </p>
