@@ -11,18 +11,30 @@ I'm currently a student at Campus 42 Málaga and on Master in Big Data and Busin
   </a>
 </p>
 
+<p align = "center">
+ 
 :telescope: 
 [My physics academy](https://universoclases.com) 
 <img src="https://www.universoclases.com/wp-content/uploads/2021/02/8.png" alt="descripción" style="heigth:30px; width: 30px" /> 
+  
+<a href="https://universoclases.com" target="blank">
+
+<img align="center" src="https://www.universoclases.com/wp-content/uploads/2021/02/8.png" alt="descripción" style="heigth:30px; width: 30px" />
+
+</a>
+
+---
 
 ### Socialmedia
 <a href="https://www.linkedin.com/in/lluis-gonzaga-fuster-8a4815151/"> Linkedin </a> <br>
 <a href="https://www.instagram.com/lluisgonzaga21/"> Instagram </a> <br>
 <a href="https://github.com/LluisGonzaga21"> Github </a> <br>
 
+---
+
 <p align="center">
 
- <a href="[https://jlferrete.com](https://github.com/LluisGonzaga21)" target="blank">
+ <a href="https://github.com/LluisGonzaga21" target="blank">
 
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="jlferrete" height="24px" width="24px" />
 
