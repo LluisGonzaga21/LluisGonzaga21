@@ -66,5 +66,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldhj2uth00630flfiyhg74a5/stats?cursusId=21&coalitionId=274" alt="lgonzaga's 42 stats" /></a>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldhj2uth00630flfiyhg74a5/stats?cursusId=9&coalitionId=274" alt="lgonzaga's 42 stats" /></a>
 </p>
