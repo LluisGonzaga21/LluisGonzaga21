@@ -1,6 +1,6 @@
 ## About me :smiley:
 
-I'm Lluis Gonzaga Fuster, programmer and data analyst. I consider myself a lover of technological development, teamwork and learning new tools. I understand programming and data analysis as a way to better understand the world around us, the behavior of people and improve our lives.
+I'm Lluis Gonzaga Fuster, data analyst and programmer. I consider myself a lover of technological development, teamwork and learning new tools. I understand programming and data analysis as a way to better understand the world around us, the behavior of people and improve our lives.
 
 I'm currently a student at Campus 42 Málaga and on Master in Big Data and Business Intelligence. This complements well whith my previous studies: Physics Degree and Music School.
 
@@ -11,19 +11,21 @@ I'm currently a student at Campus 42 Málaga and on Master in Big Data and Busin
   </a>
 </p>
 
+Now I want to achieve this goal:
+- Improving my performance of R and some libraries like *tidymodels*, *stats* and *FactoMineR*.
+
 ---
 <p align="center"> <h3>My physics academy :telescope:</h3></p> 
 
 <p align="center">
 <a href="https://universoclases.com" target="blank">
-
 <img align="center" src="https://www.universoclases.com/wp-content/uploads/2021/02/8.png" alt="descripción" style="heigth:30px; width: 40px" />
-
 </a>
-
+  
+*Universo Clases* was my first serious project. I developed the business idea and a web page to sell audiovisual content for students and workers who want to learn physics, mathematics or programming
+  
 ---
 <p align="center"> <h3>Social media 🕸️</h3></p> 
-
 
 <p align="center">
 
@@ -66,5 +68,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldhj2uth00630flfiyhg74a5/stats?cursusId=21&coalitionId=274" alt="lgonzaga's 42 stats" /></a>
+
 </p>
