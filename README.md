@@ -1,3 +1,4 @@
+
 ## About me :smiley:
 
 I'm Lluis Gonzaga Fuster, data analyst and programmer. I consider myself a lover of technological development, teamwork and learning new tools. I understand programming and data analysis as a way to better understand the world around us, the behavior of people and improve our lives.
@@ -25,7 +26,7 @@ Now I want to achieve this goal:
 *Universo Clases* was my first serious project. I developed the business idea and a web page to sell audiovisual content for students and workers who want to learn physics, mathematics or programming.
   
 ---
-<p align="center"> <h3>Social media 🕸️</h3></p> 
+<p align="center"> <h3>Connect with me 🕸️</h3></p> 
 
 <p align="center">
 
@@ -65,8 +66,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LluisGonzaga21&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LluisGonzaga21&repo=convoychat" />
+</a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LluisGonzaga21&theme=gruvbox)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LluisGonzaga21&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
-<p align="center">
-
-</p>
