@@ -13,7 +13,8 @@ I'm currently a student at Campus 42 Málaga and on Master in Big Data and Busin
 </p>
 
 Now I want to achieve this goal:
-- Improving my performance of R and some libraries like *tidymodels*, *stats* and *FactoMineR*.
+- Improving my performance of *tidymodels* in R.
+- Enjoy the wonderful power of python's *sklearn* library :p
 
 ---
 <p align="center"> <h3>My physics academy :telescope:</h3></p> 
