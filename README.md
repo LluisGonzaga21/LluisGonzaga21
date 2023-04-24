@@ -3,18 +3,18 @@
 
 I'm Lluis Gonzaga Fuster, data analyst and programmer. I consider myself a lover of technological development, teamwork and learning new tools. I understand programming and data analysis as a way to better understand the world around us, the behavior of people and improve our lives.
 
+This year I have improved a lot in the processing, cleaning and manipulation of data using Python and the pandas and numpy libraries, as well as in the transformation of variables to achieve more powerful predictive models. Also, I really enjoy using scikit learn and other libraries like catboost and xgboost to get the best possible model.
+
+On the other hand, I know that I still have to improve in the visualization of data through graphs with libraries like seaborn
+
 I'm currently a student at Campus 42 Málaga and on Master in Big Data and Business Intelligence. This complements well whith my previous studies: Physics Degree and Music School.
 
 <p align="center"> <h3>Languages and tools :heavy_check_mark:</h3></p> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,fortran,cpp,javascript,r,python,mysql,mongodb,latex,linux,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,r,mysql,mongodb,github,c,fortran,cpp,javascript,latex,linux,vscode" />
   </a>
 </p>
-
-Now I want to achieve this goal:
-- Improving my performance of *tidymodels* in R.
-- Enjoy the wonderful power of python's *sklearn* library. 😶‍🌫️
 
 ---
 <p align="center"> <h3>My physics academy :telescope:</h3></p> 
