@@ -19,11 +19,13 @@ I'm currently a student at Campus 42 Málaga and on Master in Big Data and Busin
 ---
 <p align="center"> <h3>My physics academy :telescope:</h3></p> 
 
+<!--
 <p align="center">
 <a href="https://universoclases.com" target="blank">
 <img align="center" src="https://www.universoclases.com/wp-content/uploads/2021/02/8.png" alt="descripción" style="heigth:30px; width: 40px" />
 </a>
-  
+-->
+
 *Universo Clases* was my first serious project. I developed the business idea and a web page to sell audiovisual content for students and workers who want to learn physics, mathematics or programming.
   
 ---
