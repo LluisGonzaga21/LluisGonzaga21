@@ -1,7 +1,7 @@
 
 ## About me :smiley:
 
-I'm Lluis Gonzaga Fuster, data analyst and programmer. I consider myself a lover of technological development, teamwork and learning new tools. I understand programming and data analysis as a way to better understand the world around us, the behavior of people and improve our lives.
+I'm Lluis Gonzaga Fuster, data enginer, data scientist and programmer. I consider myself a lover of technological development, teamwork and learning new tools. I understand programming and data analysis as a way to better understand the world around us, the behavior of people and improve our lives.
 
 This year I have improved a lot in the processing, cleaning and manipulation of data using Python and the pandas and numpy libraries, as well as in the transformation of variables to achieve more powerful predictive models. Also, I really enjoy using scikit learn and other libraries like catboost and xgboost to get the best possible model.
 
