@@ -1,22 +1,30 @@
 
 ## About me :smiley:
 
-💻 Data Engineer & Data Science Enthusiast
-🚀 Designer of scalable data solutions and technology enthusiast. In my daily work, I build data pipelines, manage petabytes of data, and create Data Lake and Data Lakehouse architectures using technologies like Python, PySpark, AWS S3, Glue, and Athena.
+<h1>💻 Data Engineer & Data Science Enthusiast</h1>
 
-🔧 Skills:
+<p>🚀 <strong>Designer of scalable data solutions</strong> and technology enthusiast. In my daily work, I build <strong>data pipelines</strong>, manage <strong>petabytes of data</strong>, and create <strong>Data Lake</strong> and <strong>Data Lakehouse architectures</strong> using technologies like <strong>Python</strong>, <strong>PySpark</strong>, <strong>AWS S3</strong>, <strong>Glue</strong>, and <strong>Athena</strong>.</p>
 
-Programming: Python (favorite), PySpark, R, Scala.
-Databases: SQL Server, MySQL, MongoDB.
-APIs: Designing and managing efficient data integration solutions.
-Cloud computing and parallel processing.
-🎓 Education:
+<h2>🔧 Skills</h2>
+<ul>
+  <li><strong>Programming:</strong> Python (favorite), PySpark, R, Scala.</li>
+  <li><strong>Databases:</strong> SQL Server, MySQL, MongoDB.</li>
+  <li><strong>APIs:</strong> Designing and managing efficient data integration solutions.</li>
+  <li><strong>Cloud computing and parallel processing.</strong></li>
+</ul>
 
-Master’s in Big Data and Business Analytics (UCM).
-Bachelor’s in Physics (UGR).
-🧠 Passionate about continuous learning: On this profile, you’ll find my personal data science projects, where I apply analytics, machine learning, and visualization techniques to solve interesting problems.
+<h2>🎓 Education</h2>
+<ul>
+  <li>Master’s in <strong>Big Data and Business Analytics</strong> (UCM).</li>
+  <li>Bachelor’s in <strong>Physics</strong> (UGR).</li>
+</ul>
 
-🌟 Interested in collaborating? I’m always open to exploring new ideas and working as part of a team. Check out my repositories and let’s connect!
+<h2>🧠 Passionate About Continuous Learning</h2>
+<p>On this profile, you’ll find my personal <strong>data science projects</strong>, where I apply analytics, machine learning, and visualization techniques to solve interesting problems.</p>
+
+<h2>🌟 Interested in Collaborating?</h2>
+<p>I’m always open to exploring new ideas and working as part of a team. Check out my repositories and let’s connect!</p>
+
 <p align="center"> <h3>Languages and tools :heavy_check_mark:</h3></p> 
 <p align="center">
   <a href="https://skillicons.dev">
