@@ -15,6 +15,7 @@
 
 <h2>🎓 Education</h2>
 <ul>
+  <li><strong>AWS</strong> Cloud Practicioner.</li>
   <li>Master’s in <strong>Big Data and Business Analytics</strong> (UCM).</li>
   <li>Bachelor’s in <strong>Physics</strong> (UGR).</li>
 </ul>
