@@ -1,14 +1,22 @@
 
 ## About me :smiley:
 
-I'm Lluis Gonzaga Fuster, data enginer, data scientist and programmer. I consider myself a lover of technological development, teamwork and learning new tools. I understand programming and data analysis as a way to better understand the world around us, the behavior of people and improve our lives.
+💻 Data Engineer & Data Science Enthusiast
+🚀 Designer of scalable data solutions and technology enthusiast. In my daily work, I build data pipelines, manage petabytes of data, and create Data Lake and Data Lakehouse architectures using technologies like Python, PySpark, AWS S3, Glue, and Athena.
 
-This year I have improved a lot in the processing, cleaning and manipulation of data using Python and the pandas and numpy libraries, as well as in the transformation of variables to achieve more powerful predictive models. Also, I really enjoy using scikit learn and other libraries like catboost and xgboost to get the best possible model.
+🔧 Skills:
 
-On the other hand, I know that I still have to improve in the visualization of data through graphs with libraries like seaborn
+Programming: Python (favorite), PySpark, R, Scala.
+Databases: SQL Server, MySQL, MongoDB.
+APIs: Designing and managing efficient data integration solutions.
+Cloud computing and parallel processing.
+🎓 Education:
 
-I'm currently a student at Campus 42 Málaga and on Master in Big Data and Business Intelligence. This complements well whith my previous studies: Physics Degree and Music School.
+Master’s in Big Data and Business Analytics (UCM).
+Bachelor’s in Physics (UGR).
+🧠 Passionate about continuous learning: On this profile, you’ll find my personal data science projects, where I apply analytics, machine learning, and visualization techniques to solve interesting problems.
 
+🌟 Interested in collaborating? I’m always open to exploring new ideas and working as part of a team. Check out my repositories and let’s connect!
 <p align="center"> <h3>Languages and tools :heavy_check_mark:</h3></p> 
 <p align="center">
   <a href="https://skillicons.dev">
