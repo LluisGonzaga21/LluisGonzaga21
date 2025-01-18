@@ -17,7 +17,7 @@
 <ul>
   <li><strong>AWS</strong> Cloud Practicioner.</li>
   <li>Master’s in <strong>Big Data and Business Analytics</strong> (UCM).</li>
-  <li>Bachelor’s in <strong>Physics</strong> (UGR).</li>
+  <li>Bachelor’s degree in <strong>Physics</strong> (UGR).</li>
 </ul>
 
 <h2>🧠 Passionate About Continuous Learning</h2>
